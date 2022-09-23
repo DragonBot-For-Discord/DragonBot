@@ -9,6 +9,15 @@ Discord бот с открытым исходным кодом
 ![img-tool-1](https://user-images.githubusercontent.com/64083584/191896455-ff10b50a-77eb-4202-8390-06f9cce89334.png)
 ![rank-system-1](https://user-images.githubusercontent.com/64083584/191896468-5d1c3e9f-89c3-4cdf-acfc-d19c1609c929.png)
 
+# Напоминаем, что
+Эта редакция бота - Community Edition
+
+Это означает что редакция разрабатывается сообществом
+
+Вы сможете отличить, является ли бот Community Edition версией или нет
+
+Посмотрите на статус. Если на конце есть Community Edition, значит он Community Edition
+
 # Как запустить
 Первым делом, клонируете репозиторий командой ``git clone https://github.com/DragonBot-For-Discord/DragonBot``
 
