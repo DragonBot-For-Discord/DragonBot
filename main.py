@@ -79,7 +79,7 @@ print(f" - max_msg_per_window: {max_msg_per_window}")
 print()
 
 
-activity = discord.Streaming(name=f"Version {botVersion} branch {botBranch}", url="https://www.twitch.tv/discord")
+activity = discord.Streaming(name=f"Version {botVersion} branch {botBranch} | Community Edition", url="https://www.twitch.tv/discord")
 bot = commands.Bot(
 	command_prefix=discord.ext.commands.when_mentioned, #discord.ext.commands.when_mentioned
 	activity=activity,
