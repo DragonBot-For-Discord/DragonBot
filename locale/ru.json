@@ -1,0 +1,61 @@
+{
+    "VIEW_USER_AVATAR_BUTTON": "Аватар",
+    "VIEW_USER_INFO_BUTTON": "Информация о пользователе",
+
+    "REPORT_BAD_WORD_BUTTON": "Репортнуть плохое слово",
+
+    "TRANSLATE_TO_RUSSIAN_BUTTON": "Перевести на Русский",
+    "TRANSLATE_TO_ENGLISH_BUTTON": "Перевести на Английский",
+
+    "ABOUT_DRAGONBOT_SLASH_COMMAND": "О DragonBot",
+    "STATS_DRAGONBOT_SLASH_COMMAND": "Статистика DragonBot",
+    "SEND_BUG_REPORT_SLASH_COMMAND": "Отправить сообщение об ошибке",
+    "VIEW_BOT_SETTINGS_SLASH_COMMAND": "Посмотреть настройки бота на этом сервере",
+    "DEV_PANEL_DEV_ONLY_DESCRIPTION_SLASH_COMMAND": "Панель разработчика (Только для разработчиков)",
+    "ANIMALS_DESCRIPTION_SLASH_COMMAND": "Показывает картинки с изображением животных",
+    "ENABLE_OR_DISABLE_AUTOMOD_DESCRIPTION_SLASH_COMMAND": "Включить/выключить авто-модерацию",
+    "CLEAR_CHAT_DESCRIPTION_SLASH_COMMAND": "Очистить чат",
+    "BACKUP_SERVER_DESCRIPTION_SLASH_COMMAND": "Управление резервной копией сервера (Бета)",
+    "SERVER_INFO_DESCRIPTION_SLASH_COMMAND": "Информация о сервере",
+
+    "GENERATE_EMBED_DESCRIPTION": "Сгенерировать эмбед",
+    "GENERATE_GIF_DESCRIPTION": "Создать гиф из изображений (Все форматы поддерживаются)",
+
+    "VOICE_PLAY_DESCRIPTION": "Воспроизвести музыку",
+
+    "GENAI_TOGGLE_DESCRIPTION": "Включить/выключить GenAi в определённом канале",
+
+    "IMAGE_TOOLS_DESCRIPTION": "Инструменты для работы с изображениями",
+
+    "INTERSERVER_CONNECT_DESCRIPTION": "Включить/выключить межсервер в определённом канале",
+
+    "CHANGE_BOT_LANG_DESCRIPTION": "Изменить язык бота",
+
+    "HELP_DESCRIPTION": "Показывает помощь по командам",
+
+    "ANIME_DESCRIPTION": "Не знаю как назвать эту команду, но она связана с аниме",
+
+    "FORUM_TOGGLE_DESCRIPTION": "Включить/выключить форум в определённом канале",
+
+    "ECONOMIC_BALANCE_DESCRIPTION": "Ваш баланс",
+    "ECONOMIC_BUY_DESCRIPTION": "Купить вещь из магазина",
+    "ECONOMIC_SHOP_DESCRIPTION": "Магазин",
+
+    "MOD_BAN_DESCRIPTION": "Забанить пользователя",
+    "MOD_KICK_DESCRIPTION": "Кикнуть пользователя",
+    "MOD_MUTE_DESCRIPTION": "Заглушить пользователя",
+    "MOD_UNBAN_DESCRIPTION": "Разблокировать пользователя",
+
+    "RAND_UUID_DESCRIPTION": "Генерирует случайный идентификатор",
+    "RAND_NUMBER_DESCRIPTION": "Генерирует случайное число",
+    "RAND_STRING_DESCRIPTION": "Генерирует случайную строку",
+    "RAND_TOKEN_DESCRIPTION": "Генерирует случайный токен (На самом деле он не валидный)",
+
+    "RANK_CARD_SET_OWN_FONT_DESCRIPTION": "Поставить свой шрифт для карточки ранга",
+    "RANK_CARD_SET_OWN_BACKGROUND_DESCRIPTION": "Поставить свой баннер для карточки ранга",
+    "RANK_CARD_SET_OWN_COLOR_USERNAME_AND_LEVEL_DESCRIPTION": "Поставить свой цвет для ника и уровня в карточке ранга",
+    "RANK_CARD_VIEW_MY_RANK_DESCRIPTION": "Посмотреть свою ранг карточку",
+
+    "FILE_UPLOAD_DESCRIPTION": "Загрузить файл на сервер",
+    "FILE_GET_DESCRIPTION": "Получить файл с сервера"
+}

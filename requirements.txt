@@ -1,0 +1,8 @@
+disnake
+disnake[voice]
+PyNaCl
+pillow
+youtube_dl
+googletrans
+httpx
+httpx[http2]
