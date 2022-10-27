@@ -1,7 +1,7 @@
 ![fc52f1b9f5d4084d4f49508315e4120f — копия](https://user-images.githubusercontent.com/64083584/191896863-f2e92775-07a5-4be8-8594-6ce906c3a264.png)
 
 
-# It makes no sense for me to leave the repository open because the project is archived and "dead".
+# Мне нет смысла оставлять репозиторий открытым, поскольку проект заархивирован и "мертв".
 # DragonBot
 Discord бот с открытым исходным кодом
 
